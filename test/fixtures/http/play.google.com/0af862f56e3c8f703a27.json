@@ -1,0 +1,8 @@
+{
+ "method": "GET",
+ "url": "https://play.google.com/store/search?q=Zqxvbloomtrak&c=apps&hl=en&gl=US",
+ "transformId": "play-apps-v1",
+ "status": 200,
+ "text": "[]",
+ "savedAt": "2026-11-22T22:04:02.242Z"
+}

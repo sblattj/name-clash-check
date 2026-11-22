@@ -1,0 +1,7 @@
+{
+ "method": "GET",
+ "url": "https://api.github.com/users/zqxvbloomtrak",
+ "status": 404,
+ "text": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
+ "savedAt": "2026-11-22T22:04:01.273Z"
+}

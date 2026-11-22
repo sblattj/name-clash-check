@@ -1,0 +1,35 @@
+{
+  "name": "name-clash-check",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "bunx tsc --noEmit",
+    "check": "bun src/cli.ts",
+    "record": "bun src/cli.ts --refresh --cache test/fixtures/http Nike Zqxvbloomtrak Mindbodi BodyMindHub"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "domainsweep": "^0.2.0",
+    "double-metaphone": "^2.0.1"
+  },
+  "version": "0.1.0",
+  "description": "Screen candidate names for clashes: live USPTO marks by Nice class, App Store and Google Play titles, domains, package names and handles. Keyless.",
+  "license": "MIT",
+  "bin": {
+    "name-clash-check": "src/cli.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblattj/name-clash-check.git"
+  },
+  "homepage": "https://github.com/sblattj/name-clash-check#readme",
+  "bugs": {
+    "url": "https://github.com/sblattj/name-clash-check/issues"
+  }
+}

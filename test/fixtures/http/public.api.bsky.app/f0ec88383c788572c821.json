@@ -1,0 +1,7 @@
+{
+ "method": "GET",
+ "url": "https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=bodymindhub.bsky.social",
+ "status": 400,
+ "text": "{\"error\":\"InvalidRequest\",\"message\":\"Unable to resolve handle\"}",
+ "savedAt": "2026-11-22T22:39:34.177Z"
+}

@@ -1,0 +1,7 @@
+{
+ "method": "GET",
+ "url": "https://pypi.org/pypi/bodymindhub/json",
+ "status": 404,
+ "text": "{\"message\": \"Not Found\"}",
+ "savedAt": "2026-11-22T22:39:33.975Z"
+}

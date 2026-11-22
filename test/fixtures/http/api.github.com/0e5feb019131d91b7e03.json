@@ -1,0 +1,7 @@
+{
+ "method": "GET",
+ "url": "https://api.github.com/users/nike",
+ "status": 200,
+ "text": "{\"login\":\"nike\",\"id\":210716,\"node_id\":\"MDQ6VXNlcjIxMDcxNg==\",\"avatar_url\":\"https://avatars.githubusercontent.com/u/210716?v=4\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/nike\",\"html_url\":\"https://github.com/nike\",\"followers_url\":\"https://api.github.com/users/nike/followers\",\"following_url\":\"https://api.github.com/users/nike/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/nike/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/nike/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/nike/subscriptions\",\"organizations_url\":\"https://api.github.com/users/nike/orgs\",\"repos_url\":\"https://api.github.com/users/nike/repos\",\"events_url\":\"https://api.github.com/users/nike/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/nike/received_events\",\"type\":\"User\",\"user_view_type\":\"public\",\"site_admin\":false,\"name\":\"Nicola Piras\",\"company\":null,\"blog\":\"\",\"location\":null,\"email\":null,\"hireable\":null,\"bio\":null,\"twitter_username\":null,\"public_repos\":3,\"public_gists\":0,\"followers\":15,\"following\":0,\"created_at\":\"2010-02-25T15:31:55Z\",\"updated_at\":\"2026-11-06T11:16:35Z\"}",
+ "savedAt": "2026-11-22T22:03:59.168Z"
+}

@@ -1,0 +1,8 @@
+{
+ "method": "POST",
+ "url": "https://tmsearch.uspto.gov/prod-stage-v1-0-0/tmsearch",
+ "body": "{\"query\":{\"bool\":{\"should\":[{\"match_phrase\":{\"WM\":{\"query\":\"mindbodi\"}}},{\"term\":{\"WM\":{\"value\":\"mindbodi\"}}}],\"minimum_should_match\":1,\"filter\":[{\"term\":{\"LD\":\"true\"}}]}},\"size\":50,\"from\":0,\"track_total_hits\":true,\"_source\":[\"id\",\"wordmark\",\"alive\",\"statusDescription\",\"registrationId\",\"internationalClass\",\"ownerName\",\"filedDate\"]}",
+ "status": 200,
+ "text": "{\"took\":1,\"timedOut\":false,\"shardsTotal\":5,\"shardsSuccessful\":5,\"shardsSkipped\":0,\"shardsFailed\":0,\"hits\":{\"totalValue\":0,\"totalRelation\":\"eq\",\"maxScore\":null,\"hits\":[]}}",
+ "savedAt": "2026-11-22T22:04:09.234Z"
+}

@@ -1,0 +1,6 @@
+node_modules/
+.cache/
+*.log
+# domainsweep IANA bootstrap and WHOIS caches; its recorded results stay tracked
+test/fixtures/http/domainsweep/*
+!test/fixtures/http/domainsweep/results/
